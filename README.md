@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="python" width="26px" src="<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img align="left" alt="python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img align="left" alt="tableau" width="26px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
 <img align="left" alt="django" width="26px" src="https://img.icons8.com/ios/50/000000/django.png" />
@@ -45,11 +45,13 @@
 
 ---
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanshu7&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=dark" />
+<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanshu7&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=dark" />
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu7&layout=compact)][github]
+<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu7&layout=compact" />
+
+---
 
 [website]: https://priyanshu7.github.io/
 [linkedin]: https://www.linkedin.com/in/priyanshu7m/
