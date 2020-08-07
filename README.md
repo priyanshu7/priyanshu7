@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on upskilling myself!
 - :thought_balloon: Learning how to make machines think
 - 👯 Happy to collaborate with other tech enthusiaists
-- 🥅 2020 Goals: Focus on projects
-- :art: Fun fact: I love to draw and paint
+- 🥅 2020 Goals: Focus on **_projects_ and turning ideas to code**
+- :art: Fun fact: I love to draw and _paint_
 
 ### Connect with me:
 
@@ -14,16 +14,23 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/ios-filled/50/000000/email-open.png" />][email]
 
-<br />
+<br/>
 
 ### Languages and Tools:
 
 <img align="left" alt="python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img align="left" alt="CPP" width="26px" src="/img/cpp.png"/>
+<img align="left" alt="ML" width="26px" src="/img/ml.png"/>
+<img align="left" alt="Scikit" width="26px" src="/img/sklearn.png"/>
+<img align="left" alt="Pandas" width="26px" src="/img/pandas.png"/>
 <img align="left" alt="tableau" width="26px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
+<img align="left" alt="matplotlib" width="26px" src="/img/matplot.png"/>
+<img align="left" alt="Flask" width="26px" src="/img/flask.png"/>
 <img align="left" alt="django" width="26px" src="https://img.icons8.com/ios/50/000000/django.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Bash" width="26px" src="/img/unix.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -33,20 +40,20 @@
 <br />
 <br />
 
----
+------
 
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts <img align="left" alt="Bash" width="26px" src="/img/dwd.png"/>
 <!-- BLOG-POST-LIST:START -->
 - [Problem Solving](https://www.datewithdata.co.in/blog/categories/problem-solving)
 - [Statistics](https://www.datewithdata.co.in/post/how-much-stats-is-too-much-stats)
 <!-- BLOG-POST-LIST:END -->
 
----
+------
 
 <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanshu7&show_icons=true&hide_border=true&count_private=true&hide=prs,issues,contribs&theme=dark" />
 
----
+------
 
 <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu7&layout=compact" />
 
