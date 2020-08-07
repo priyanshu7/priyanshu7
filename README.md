@@ -44,7 +44,7 @@
 
 ---
 
-<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanshu7&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=dark" />
+<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanshu7&show_icons=true&hide_border=true&count_private=false&hide=prs,issues,contris&theme=dark" />
 
 ---
 
