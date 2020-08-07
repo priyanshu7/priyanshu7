@@ -42,9 +42,10 @@
 
 ------
 
+<img align="left" alt="DwD" width="40px" src="https://github.com/priyanshu7/priyanshu7/blob/master/img/dwd.png"/>
+<br/>
 
 ### 📕 Latest Blog Posts 
-<img align="left" alt="DwD" width="40px" src="https://github.com/priyanshu7/priyanshu7/blob/master/img/dwd.png"/>
 <!-- BLOG-POST-LIST:START -->
 - [Problem Solving](https://www.datewithdata.co.in/blog/categories/problem-solving)
 - [Statistics](https://www.datewithdata.co.in/post/how-much-stats-is-too-much-stats)
