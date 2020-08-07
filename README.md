@@ -8,15 +8,17 @@
 - 🥅 2020 Goals: Focus on **_projects_** and **turning ideas to code**
 - :art: Fun fact: I love to draw and _paint_
 
-### Connect with me:
+### :e-mail: Connect with me :
 
 [<img align="left" alt="portfolio" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="LinkedIn" width="40px" src="https://img.icons8.com/ios-filled/50/000000/email-open.png" />][email]
 
 <br/>
+<br/>
+<br/>
 
-### Languages and Tools:
+### :books: Languages and Tools:
 
 <img align="left" alt="python" width="40px" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
@@ -63,6 +65,7 @@
 
 ------
 
+<br/>
 <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu7&layout=compact" />
 
 [website]: https://priyanshu7.github.io/
