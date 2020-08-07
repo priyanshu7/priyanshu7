@@ -20,8 +20,8 @@
 
 <img align="left" alt="python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img align="left" alt="CPP" width="26px" src="/img/cpp.png"/>
-<img align="left" alt="ML" width="26px" src="/img/ml.png"/>
+<img align="left" alt="CPP" width="26px" src="https://github.com/priyanshu7/priyanshu7/blob/master/img/cpp.png"/>
+<img align="left" alt="ML" width="26px" src="https://github.com/priyanshu7/priyanshu7/blob/master/img/ml.png"/>
 <img align="left" alt="Scikit" width="26px" src="/img/sklearn.png"/>
 <img align="left" alt="Pandas" width="26px" src="/img/pandas.png"/>
 <img align="left" alt="tableau" width="26px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
