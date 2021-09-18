@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on upskilling myself :exclamation:
 - :thought_balloon: Learning how to make machines think 
 - 👯 Happy to collaborate with other tech enthusiaists :octocat:
-- 🥅 2020 Goals: Focus on **_projects_** and **turning ideas to code**
+- 🥅 2021 Goals: Focus on **_projects_** and **turning ideas to code**
 - :art: Fun fact: I love to draw and _paint_
 
 ### :e-mail: Connect with me :
